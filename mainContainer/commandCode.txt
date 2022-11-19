@@ -1,7 +1,0 @@
-import arbitContainer.arbitCode.*;   
-import arbitContainer.arbitCode.addends;
-
-public class addends {
-    public first = 2;
-    public second = 1;
-}

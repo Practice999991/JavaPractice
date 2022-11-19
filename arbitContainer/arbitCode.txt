@@ -1,9 +1,0 @@
-
-package mypack;
-class addends {
-  public static double first = 3
-  public static double second = 4
-  public static double main(first, second) {
-    System.out.println(first + second);
-  }
-}
